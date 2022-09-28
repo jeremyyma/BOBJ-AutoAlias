@@ -5,4 +5,4 @@
 
   IMPORTATNT: Please review SAP Note 1343537 - "Displaying SAP usernames in the USERNAME format" to verify if the out of box configuration shall meet your needs, if not you can proceed at your own :+1: .
 
-  You can read up the why/what/how in the [a link](https://github.com/jeremyyma/BOBJ-AutoAlias/blob/main/Public AutoAliasMapping  -  Compatibility Mode.pdf) "Public AutoAliasMapping  -  Compatibility Mode.pdf"
+  You can read up the why/what/how in the [a link](https://github.com/jeremyyma/BOBJ-AutoAlias/blob/main/Public%20Public%20AutoAliasMapping%20%20-%20%20Compatibility%20Mode.pdf)
